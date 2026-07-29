@@ -1,1 +1,0 @@
-Add your profile photo as images/profile.jpg and your resume as resume.pdf, then publish with GitHub Pages.
